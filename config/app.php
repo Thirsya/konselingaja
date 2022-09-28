@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    LaravelFrontendPresets\ArgonPreset\ArgonPresetServiceProvider::class,
     /*
     |--------------------------------------------------------------------------
     | Application Name
